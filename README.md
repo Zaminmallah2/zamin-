@@ -1,0 +1,2 @@
+# zamin-
+cd zamin 
